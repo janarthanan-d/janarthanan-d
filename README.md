@@ -33,22 +33,22 @@
 <img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```yaml
-name: "Janarthanan D"
-role: "Computer Science Engineering Student"
-college: "IFET College of Engineering"
-location: "Tamil Nadu, India 🇮🇳"
-focus: "Full Stack Development"
-currently_learning: 
+Name: "Janarthanan D"
+Role: "Computer Science Engineering Student"
+College: "IFET College of Engineering"
+Location: "Tamil Nadu, India 🇮🇳"
+Focus: "Full Stack Development"
+Currently_learning: 
   - "React.js"
   - "REST APIs"
   - "MongoDB"
   - "AI Integration"
-interests: 
+Interests: 
   - "Web Development"
   - "Artificial Intelligence"
   - "IoT"
   - "DevOps"
-status: "Open to Internship Opportunities 🚀"
+Status: "Open to Internship Opportunities 🚀"
 ```
 
 &nbsp;
@@ -63,7 +63,7 @@ status: "Open to Internship Opportunities 🚀"
 
 💬&nbsp; Happy to talk about **JavaScript, full-stack architecture, or IoT automation** — always down for a good tech conversation.
 
-📫&nbsp; Reach me at **your.email@example.com**
+📫&nbsp; Reach me at **janarthanan2061@gmail.com**
 
 <br clear="right"/>
 
